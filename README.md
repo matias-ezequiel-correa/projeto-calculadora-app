@@ -1,4 +1,4 @@
-# PROJETO sobre CALCULADORA APP | Estudos 💻📚
+# PROJETO sobre CALCULADORA APP 🧮
 
 * Um projeto sobre uma <a href="https://matias-ezequiel-correa.github.io/projeto-calculadora-app/" target="_blank">Calculadora APP</a>.
 
